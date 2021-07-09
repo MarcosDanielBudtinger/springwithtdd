@@ -3,7 +3,6 @@ package com.marcos.tdd;
 import java.time.LocalDate;
 import java.util.Optional;
 
-import com.jayway.jsonpath.Option;
 import com.marcos.tdd.model.Booking;
 import com.marcos.tdd.repository.BookingRepository;
 import com.marcos.tdd.service.BookingService;
