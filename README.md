@@ -1,2 +1,2 @@
 # springwithtdd
-A Test with Spring project using TDD and Mockito
+A Test with Spring project using TDD and Mock
